@@ -1,4 +1,4 @@
-# Zen--Task-Management-Application
+# Zen-Task-Management Application
 ## Objective
 Low in Productivity or Habit of forgetting things? No issues, Zen is here. Zen would help you create a to-do list, so that you can play your day in a better way. 
 
